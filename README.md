@@ -19,7 +19,9 @@ __Let's say for instance that:__
 * We own **90** shares
 * **9.25 per share** as of 4/8/2019  
 * We want to project **10 years** worth of dividend investment calculations  
-    Price = 9.25  
+    ```
+    Price = 9.25
     Shares = 90  
     Dividend = 0.15  
     MaxYears = 10
+    ``` 
