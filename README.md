@@ -47,5 +47,7 @@ __Let's go through the meaning of the output:__
     * __Re__ = __ReInvest Stocks__ _is rounded down from __P/P__ to estimate the exact amount of additional stocks to buy_
     * __Cur__ = __Current Stocks__ _is the current amount of stocks in that quarter_
 
-Thanks for reading! Hope that it was useful and you enjoyed it!
-I am open to any comments or feedback.
+__I am still making it more better by trying to add more features.__  
+__I am open to any comments or feedback.__  
+__Thanks for reading! Hope that it was useful and that you enjoyed it!__  
+
