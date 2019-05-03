@@ -19,18 +19,22 @@ After inputting the values, there will be an output result of dividend calculati
 
 __Let's go through the meaning of the output:__
 * In each year are 4 Quarters showing the __Annual Income__, and __Annual Shares__
-* In each quarter there are __Profit__, __P/P__, __ReInvest__, and __Cur__
+* In each quarter we show the four keywords:  
+    * __Profit__
+    * __P/P__
+    * __ReInvest__
+    * __Cur__
 
-* __P/P__ = __Profit/Price__, __Re__ = __ReInvest Stocks__, __Cur__ = __Current Stocks__
-* __P/P__ is calculated to find how many additional stocks to buy based on the profit earned
-* __ReInvest__ is rounded down from __P/P__ to estimate the exact amount of additional stocks to buy
-* __Cur__ is the current amount of stocks in that quarter 
+* Those terms are just simply short for :  
+    * __P/P__ = __Profit/Price__ _is calculated to find how many additional stocks to buy based on the profit earned_
+    * __Re__ = __ReInvest Stocks__ _is rounded down from __P/P__ to estimate the exact amount of additional stocks to buy_
+    * __Cur__ = __Current Stocks__ _is the current amount of stocks in that quarter_
 
 ### __Let's say for instance that:__  
-* We own __90 shares__ of __F ( Ford )**__
-* **9.25 per share** as of 4/8/2019  
-* __F ( Ford )**__ pays dividends in __4 quarters__ every year
-* We want to project **10 years** worth of dividend investment calculations  
+* We own __90 shares__ of __F ( Ford )__
+* __9.25 per share__ as of 4/8/2019  
+* __F ( Ford )__ pays dividends in __4 quarters__ every year
+* We want to project __10 years__ worth of dividend investment calculations  
     ```python
     Price = 9.25
     Shares = 90  
@@ -42,3 +46,5 @@ __Here's one of the years from the output code:__
 
 ![alt text](https://github.com/JackFrostiez/Dividend-Calculator/blob/master/Example1.png "Yearly Example Output")
 
+Thanks for reading! Hope that it was useful and you enjoyed it!
+I am open to any comments or feedback.
