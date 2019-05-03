@@ -32,7 +32,7 @@ After inputting the values, there will be an output result of dividend calculati
 
 __Here's one of the years from the output:__
 
-![alt text](https://github.com/JackFrostiez/Dividend-Calculator/blob/master/Example1.png "Yearly Example Output")
+![alt text](https://github.com/JackFrostiez/Dividend-Calculator/blob/master/Div_Calculator/Example1.png "Yearly Example Output")
 
 __Let's go through the meaning of the output:__
 * In each year are 4 Quarters showing the __Annual Income__, and __Annual Shares__
