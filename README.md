@@ -9,21 +9,34 @@ Someone may want to just keep reinvesting the profits that they earned from divi
 
 ## Ok, so how does it work?
 You have to input four things however you want:
-* Price - _The current average price of the stock_
-* shares   - _The amount of shares you own for this stock_
-* dividend - _The dividend amount you earn per share_
-* maxYears - _The amount of years to project calculations_
+* Price    - _The current average price of the stock_
+* Shares   - _The amount of shares you own for this stock_
+* Dividend - _The dividend amount you earn per share_
+* Quarters - _The amount of quarters the stock pays in every year_
+* MaxYears - _The amount of years to project calculations_
 
-__Let's say for instance that:__  
-* We have **F ( Ford )**
-* We own **90** shares
+After inputting the values, there will be an output result of dividend calculations.
+
+__Let's go through the meaning of the output:__
+* In each year are 4 Quarters showing the __Annual Income__, and __Annual Shares__
+* In each quarter there are __Profit__, __P/P__, __ReInvest__, and __Cur__
+
+* __P/P__ = __Profit/Price__, __Re__ = __ReInvest Stocks__, __Cur__ = __Current Stocks__
+* __P/P__ is calculated to find how many additional stocks to buy based on the profit earned
+* __ReInvest__ is rounded down from __P/P__ to estimate the exact amount of additional stocks to buy
+* __Cur__ is the current amount of stocks in that quarter 
+
+### __Let's say for instance that:__  
+* We own __90 shares__ of __F ( Ford )**__
 * **9.25 per share** as of 4/8/2019  
+* __F ( Ford )**__ pays dividends in __4 quarters__ every year
 * We want to project **10 years** worth of dividend investment calculations  
     ```python
     Price = 9.25
     Shares = 90  
     Dividend = 0.15  
+    Quarters = 4
     MaxYears = 10
     ``` 
-__Here's one of the years from the output code___
+__Here's one of the years from the output code:__ ![alt text](https://raw.githubusercontent.com/JackFrostiez/Dividend-Calculator/master/Example1.png?token=AFSHMPWHQ2NJYJWGIRSXVXK4ZPUSW "Logo Title Text 1")
 
