@@ -38,5 +38,7 @@ __Let's go through the meaning of the output:__
     Quarters = 4
     MaxYears = 10
     ``` 
-__Here's one of the years from the output code:__ ![alt text](https://github.com/JackFrostiez/Dividend-Calculator/blob/master/Example1.png "Yearly Example Output")
+__Here's one of the years from the output code:__
+
+![alt text](https://github.com/JackFrostiez/Dividend-Calculator/blob/master/Example1.png "Yearly Example Output")
 
