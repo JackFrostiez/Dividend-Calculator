@@ -16,6 +16,7 @@ You have to input five things however you want:
 * MaxYears - _The amount of years to project calculations_
 
 After inputting the values, there will be an output result of dividend calculations.
+
 __Here's one of the years from the output code:__
 
 ![alt text](https://github.com/JackFrostiez/Dividend-Calculator/blob/master/Example1.png "Yearly Example Output")
