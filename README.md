@@ -16,6 +16,9 @@ You have to input five things however you want:
 * MaxYears - _The amount of years to project calculations_
 
 After inputting the values, there will be an output result of dividend calculations.
+__Here's one of the years from the output code:__
+
+![alt text](https://github.com/JackFrostiez/Dividend-Calculator/blob/master/Example1.png "Yearly Example Output")
 
 __Let's go through the meaning of the output:__
 * In each year are 4 Quarters showing the __Annual Income__, and __Annual Shares__
@@ -41,10 +44,6 @@ __Let's go through the meaning of the output:__
     Dividend = 0.15  
     Quarters = 4
     MaxYears = 10
-    ``` 
-__Here's one of the years from the output code:__
-
-![alt text](https://github.com/JackFrostiez/Dividend-Calculator/blob/master/Example1.png "Yearly Example Output")
-
+    ```
 Thanks for reading! Hope that it was useful and you enjoyed it!
 I am open to any comments or feedback.
