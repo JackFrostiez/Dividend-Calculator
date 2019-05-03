@@ -44,7 +44,7 @@ __Let's go through the meaning of the output:__
 
 * Those terms are just simply short for :  
     * __P/P__ = __Profit/Price__ _is calculated to find how many additional stocks to buy based on the profit earned_
-    * __Re__ = __ReInvest Stocks__ _is rounded down from __P/P__ to estimate the exact amount of additional stocks to buy_
+    * __ReInvest__ = __ReInvest Stocks__ _is rounded down from __P/P__ to estimate the exact amount of additional stocks to buy_
     * __Cur__ = __Current Stocks__ _is the current amount of stocks in that quarter_
 
 __I am still making it more better by trying to add more features.__  
