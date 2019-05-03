@@ -2,7 +2,7 @@
 
 A small dividend calculator in Python because I like doing stocks so why not?
 
-***Only works with manual inputs as of now***
+***Note: Only works with manual inputs as of now***
 
 ## What's the point of this?
 Someone may want to just keep reinvesting the profits that they earned from dividends into getting more shares, therefore increasing future profits. If you're that someone, then this might help you out!
