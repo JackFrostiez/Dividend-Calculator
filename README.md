@@ -8,7 +8,7 @@ A small dividend calculator in Python because I like doing stocks so why not?
 Someone may want to just keep reinvesting the profits that they earned from dividends into getting more shares, therefore increasing future profits. If you're that someone, then this might help you out!
 
 ## Ok, so how does it work?
-You have to input four things however you want:
+You have to input five things however you want:
 * Price    - _The current average price of the stock_
 * Shares   - _The amount of shares you own for this stock_
 * Dividend - _The dividend amount you earn per share_
